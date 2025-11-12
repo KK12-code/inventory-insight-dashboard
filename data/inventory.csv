@@ -1,0 +1,53 @@
+Product_ID,Product_Brand,Product_Name,Available_Quantity,Average_Selling_Price,Average_Buying_Price,Total_Incoming,Total_Outgoing,Defective_Stock,Total_Sold,Monthly_Sale_Quantity,Holding_Cost,Average_Stock_Level,Bin_Location,Aisle_Location,Profit_Per_Unit,Profit_After_HC
+A005,Apple,AirPods Pro 2 (USB-C),500,199,180,250,50,1,198,70,1.5,170,B5,A3,49,47.5
+A020,Apple,Pencil (USB-C),200,129,100,220,40,0,198,70,1,150,B47,A25,39,38
+A019,Apple,TV 4K Wi-Fi 64GB [2022],80,179,160,100,30,1,78,20,50,60,B46,A24,39,-11
+A010,Apple,Watch Series 10 42mm Rose Gold Aluminium Case GPS Sport Band,220,350,310,250,60,2,218,65,1.8,150,B10,A5,89,87.2
+A008,Apple,"iMac with Retina 4.5K Display 24-inch, M4 Chip 8-core 256GB (Silver)",80,1100,1100,100,20,0,78,25,60,60,B8,A4,199,139
+A006,Apple,iPad 10.2-inch 64GB Wi-Fi (Space Grey) [9th Gen],180,799,650,180,40,1,179,60,2.5,140,B6,A3,199,196.5
+A007,Apple,iPad 10.9-inch 64GB Wi-Fi (Silver) [10th Gen],100,850,720,150,30,1,98,30,2.5,80,B7,A4,179,176.5
+A003,Apple,iPhone 16 Pro Max 256GB (Desert Titanium),50,999,950,500,450,4,296,120,3,250,B3,A2,149,146
+A004,Apple,iPhone 15 Pro Max 512GB (Black Titanium),250,899,850,400,150,3,245,100,2.8,200,B4,A2,149,146.2
+A012,Apple,iPhone 16 Pro Max 1TB (Black Titanium),79,1200,1100,500,180,3,297,110,3.5,220,B12,A6,199,195.5
+A009,Apple,"Mac mini with M4 Chip, 10-core CPU/10-core GPU, 512GB/16GB",170,650,550,90,10,1,69,20,2,50,B9,A5,149,147
+A014,Apple,"MacBook Pro 16-inch with M4 Max Chip, 1TB/48GB (Silver)[2024]",60,5000,4500,70,15,1,58,20,5,50,B14,A7,799,794
+A013,Apple,"Mac Studio with M2 Max chip, 12-core CPU, 512GB SSD [2023]",70,2000,1850,80,20,0,70,25,4,60,B13,A7,349,345
+A001,Apple,"MacBook Air 13-inch with M3 Chip, 10-core GPU, 512GB/16GB (Midnight)[2024]",150,1200,1020,200,50,2,148,50,3,100,B1,A1,229,226
+A002,Apple,"MacBook Air 15-inch with M3 chip, 10-core GPU 512GB/16GB (Midnight) [2024]",120,1300,1080,150,30,1,119,40,3,90,B2,A1,269,266
+A018,Apple,"MacBook Air 13-inch with M3 Chip, 8-core GPU, 256GB/8GB (Midnight)[2024]",21,999,890,200,60,2,148,50,3,120,B45,A24,209,206
+A021,Apple,"MacBook Air 15-inch with M3 chip, 10-core GPU 256GB/8GB (Midnight) [2024]",100,1100,960,130,40,1,99,35,3,90,B48,A25,239,236
+A011,Apple,"MacBook Pro 14-inch with M4 Chip, 512GB/16GB (Space Black)[2024]",180,1450,1250,200,40,1,179,60,3.2,120,B11,A6,299,295.8
+S013,Samsung,Galaxy A55 5G 128GB (Awesome Navy),150,400,320,170,50,2,148,40,2.2,120,B27,A14,130,127.8
+S005,Samsung,Galaxy Buds3 (Silver),110,150,110,150,20,0,109,35,1.5,80,B19,A10,39,37.5
+S010,Samsung,Galaxy Buds3 Pro (Silver),130,200,140,140,50,2,128,45,1.6,100,B24,A12,59,57.4
+S011,Samsung,Galaxy Z Fold6 5G 512GB (Silver Shadow),100,1800,1250,120,40,1,99,35,4,80,B25,A13,249,245
+S024,Samsung,Galaxy S24+ 5G 256GB (Onyx Black),100,950,900,120,30,0,99,35,3,80,B51,A27,249,246
+S001,Samsung,Galaxy S24 5G 256GB (Onyx Black),30,799,850,300,270,3,245,90,2.5,180,B15,A8,199,196.5
+S002,Samsung,Galaxy S24 FE 5G 256GB (Graphite),68,899,590,260,90,2,228,85,2.5,160,B16,A8,159,156.5
+S006,Samsung,Galaxy A35 5G 128GB (Awesome Ice Blue),190,700,270,200,90,2,188,70,2.8,140,B20,A10,79,76.2
+S007,Samsung,Galaxy S23 Ultra 5G 256GB (Phantom Black),66,820,1000,300,80,3,257,95,3,210,B21,A11,249,246
+S023,Samsung,Galaxy S22 Ultra 5G 128GB (Phantom Black),140,799,800,160,40,1,138,50,2.2,120,B50,A26,199,196.8
+S022,Samsung,Galaxy S23 Ultra 5G 512GB (Green),170,899,1120,200,60,2,168,55,2.5,140,B49,A26,279,276.5
+S025,Samsung,Galaxy S23 Ultra 5G 1TB (Green),45,999,1280,210,60,1,188,60,3.5,160,B52,A27,319,315.5
+S008,Samsung,"Galaxy Tab S9 FE 10.9"" Wi-Fi 128GB (Mint)",95,450,400,100,50,1,94,30,2.2,80,B22,A11,99,96.8
+S003,Samsung,"Galaxy Tab S9 FE+ 12.4"" Wi-Fi 128GB (Grey)",90,600,450,120,40,1,89,30,2.2,70,B17,A9,99,96.8
+S004,Samsung,"Galaxy Tab S9 FE 10.9"" Wi-Fi 128GB (Grey)",75,350,400,100,30,1,74,25,2,50,B18,A9,99,97
+S009,Samsung,"Galaxy Tab A9+ 11"" Wi-Fi 64GB (Graphite)",60,300,240,80,30,0,59,25,1.8,50,B23,A12,59,57.2
+S012,Samsung,Galaxy Z Flip6 5G 512GB (Yellow),85,1300,850,100,30,0,84,30,3.8,65,B26,A13,249,245.2
+SN003,Sonos,Beam,80,600,320,100,40,1,79,25,2.5,60,B30,A16,60,57.5
+SN016,Sonos,Move,60,299,300,80,30,0,59,20,1.5,50,B43,A23,60,58.5
+SN017,Sonos,One,130,229,290,160,50,1,128,40,2,100,B44,A23,60,58
+SN005,Sonos,Roam,50,199,250,60,20,0,48,15,1.5,40,B32,A17,50,48.5
+SN001,Sonos,Play:5,100,350,330,150,50,1,98,30,2,75,B28,A15,70,68
+SN002,Sonos,Five,150,450,360,170,60,2,148,45,25,90,B29,A15,60,35
+SN004,Sonos,Sub,60,800,370,80,30,1,59,20,3,45,B31,A16,80,77
+SY006,Sony,PlayStation 5 Digital,50,499,420,80,30,2,48,20,45,45,B33,A18,80,35
+SY007,Sony,PlayStation 5 Slim Digital,60,549,400,100,20,1,58,25,45,50,B34,A18,70,25
+SY014,Sony,PlayStation 4,120,299,250,150,40,2,118,50,20,90,B41,A22,50,30
+SY011,Sony,PlayStation 5 Disc,150,599,430,180,50,2,148,45,50,120,B38,A20,90,40
+SY015,Sony,Alpha A7 IV Full Frame Mirrorless Camera [4K Video] [Body Only],50,1500,1500,60,20,1,49,25,60,40,B42,A22,300,240
+SY013,Sony,Alpha A7C II Full Frame Mirrorless Camera (Black) [Body Only],15,1400,1400,60,15,1,44,20,60,35,B40,A21,300,240
+SY008,Sony,Alpha A6700 Mirrorless Camera [4K Video](Body Only),40,999,1250,60,10,1,39,15,60,30,B35,A19,250,190
+SY010,Sony,ULT WEAR Noise Cancelling Over-Ear Headphones (Black),70,199,250,90,20,1,68,25,1.5,50,B37,A20,50,48.5
+SY009,Sony,55" BRAVIA 8 4K HDR OLED Google TV (2024),35,1200,2100,50,10,0,34,10,120,25,B36,A19,400,280
+SY012,Sony,BRAVIA Theatre Bar 9 Soundbar,100,900,750,120,30,1,99,35,2.8,80,B39,A21,150,147.2
